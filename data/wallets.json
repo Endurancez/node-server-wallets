@@ -1,0 +1,100 @@
+[
+  {
+    "id": 1,
+    "name": "Wallet",
+    "balance": 145,
+    "transactions": [
+      {
+        "sum": 42,
+        "reference": "asdfg"
+      }
+    ],
+    "transcationsTotal": 154
+  },
+  {
+    "id": 2,
+    "name": "Test2",
+    "balance": 245,
+    "transactions": [],
+    "transcationsTotal": 354
+  },
+  {
+    "id": 3,
+    "name": "Test1",
+    "balance": 45,
+    "transactions": [],
+    "transcationsTotal": 354
+  },
+  {
+    "id": 4,
+    "name": "alexandru",
+    "balance": 0,
+    "transactions": [
+      {
+        "reference": "sadfasdsadas",
+        "amount": 30
+      },
+      {
+        "reference": "sadfasdsadas",
+        "amount": 30
+      },
+      {
+        "reference": "sadfasdsadas",
+        "amount": 30
+      }
+    ],
+    "transcationsTotal": 90
+  },
+  {
+    "id": 5,
+    "name": "andu",
+    "balance": 0,
+    "transactions": [
+      {
+        "reference": "asdsadsadas",
+        "amount": 12321312
+      },
+      {
+        "reference": "asdsadsadas",
+        "amount": 21312
+      },
+      {
+        "reference": "asdsadsadas",
+        "amount": 234242342
+      },
+      {
+        "reference": "asdsadsadas",
+        "amount": 123
+      }
+    ],
+    "transcationsTotal": 246585089
+  },
+  {
+    "id": 6,
+    "name": "andu2",
+    "balance": 0,
+    "transactions": [],
+    "transcationsTotal": 0
+  },
+  {
+    "id": 7,
+    "name": "andu22",
+    "balance": 0,
+    "transactions": [],
+    "transcationsTotal": 0
+  },
+  {
+    "id": 8,
+    "name": "andu223",
+    "balance": 0,
+    "transactions": [],
+    "transcationsTotal": 0
+  },
+  {
+    "id": 9,
+    "name": "Adriana",
+    "balance": 0,
+    "transactions": [],
+    "transcationsTotal": 0
+  }
+]
